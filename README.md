@@ -1,1 +1,2 @@
-https://github.com/WUCHIPANG/MemoryBlocks.git
+https://github.com/WUCHIPANG/MemoryBlocks
+
